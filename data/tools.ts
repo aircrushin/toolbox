@@ -25,8 +25,8 @@ export const tools = [
         link: 'https://www.remove.bg/zh'
     },
     {
-        title: "eztodo",
+        title: "air-todo",
         desc: "极简TodoList",
-        link: 'https://eztodo.zeabur.app/'
+        link: 'https://airtodo.zeabur.app/'
     },
 ]
