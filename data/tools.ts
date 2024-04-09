@@ -37,11 +37,11 @@ export const tools = [
     {
         title: "Landr",
         desc: "音乐采样网站",
-        link: 'https://www.landr.com/‘
+        link: 'https://www.landr.com/'
     },
     {
         title: "智谱开放平台",
         desc: "AI项目开发者的api工具",
-        link: 'https://open.bigmodel.cn/usercenter/apikeys‘
+        link: 'https://open.bigmodel.cn/usercenter/apikeys'
     },
 ]
