@@ -29,4 +29,19 @@ export const tools = [
         desc: "极简TodoList",
         link: 'https://airtodo.zeabur.app/'
     },
+    {
+        title: "Indie dev",
+        desc: "独立开发者学习文档",
+        link: 'https://indie.npmstudy.com/'
+    },
+    {
+        title: "Landr",
+        desc: "音乐采样网站",
+        link: 'https://www.landr.com/‘
+    },
+    {
+        title: "智谱开放平台",
+        desc: "AI项目开发者的api工具",
+        link: 'https://open.bigmodel.cn/usercenter/apikeys‘
+    },
 ]
