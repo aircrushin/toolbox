@@ -16,7 +16,7 @@ export const tools = [
     },
     {
         title: "Kimi Chat",
-        desc: "支持联网和上传文件的聊天机器人",
+        desc: "支持联网和上传文件的Chatbot",
         link: 'https://kimi.moonshot.cn/'
     },
     {
@@ -43,5 +43,10 @@ export const tools = [
         title: "智谱开放平台",
         desc: "AI项目开发者的api工具",
         link: 'https://open.bigmodel.cn/usercenter/apikeys'
+    },
+    {
+        title: "v0.dev",
+        desc: "React+tailwind样式生成器",
+        link: 'https://v0.dev/'
     },
 ]
